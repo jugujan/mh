@@ -1,0 +1,13 @@
+div#mh_block_left {
+float:right;
+}
+div#mh_block_left p a {
+  display:block;
+  font-weight:bold;
+  color:white;
+  background:#000;
+}
+.mh-button-medium {
+margin-top:0.5em;
+padding:0.5em !important;
+}
